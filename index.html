@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop & Yum - Smart Meal Planner & Grocery Tracker by ahyum Labs</title>
+    <meta name="description" content="Shop & Yum by ahyum Labs: Your all-in-one kitchen companion with Weekly Meal Planner, Interactive Cook Mode with Timers, Budget Grocery List, Pantry Tracker, and AI Recipe Generator.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --primary: #FF6B35;
+            --primary-dark: #E85520;
+            --primary-light: #FF885B;
+            --secondary: #004E64;
+            --secondary-dark: #002A36;
+            --accent: #2563EB;
+            --accent-green: #10B981;
+            --surface: #FFFFFF;
+            --background: #F8FAFC;
+            --text-dark: #0F172A;
+            --text-muted: #475569;
+            --border: #E2E8F0;
+            --shadow-sm: 0 2px 8px rgba(0,0,0,0.04);
+            --shadow-md: 0 10px 30px rgba(0,0,0,0.06);
+            --shadow-lg: 0 20px 40px rgba(255,107,53,0.12);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--background);
+            color: var(--text-dark);
+            line-height: 1.6;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Navigation */
+        header {
+            background-color: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 0.85rem;
+            text-decoration: none;
+        }
+
+        .brand-icon {
+            width: 44px;
+            height: 44px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 800;
+            font-size: 1.25rem;
+            box-shadow: 0 4px 14px rgba(255, 107, 53, 0.3);
+        }
+
+        .brand-title {
+            font-size: 1.35rem;
+            font-weight: 800;
+            color: var(--text-dark);
+            letter-spacing: -0.02em;
+        }
+
+        .brand-title span {
+            color: var(--primary);
+        }
+
+        .brand-subtitle {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-top: -2px;
+        }
+
+        .nav-links {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--text-muted);
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        .cta-btn-small {
+            background-color: var(--primary);
+            color: white !important;
+            padding: 0.6rem 1.25rem;
+            border-radius: 30px;
+            font-weight: 700;
+            box-shadow: 0 4px 12px rgba(255, 107, 53, 0.25);
+            transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s !important;
+        }
+
+        .cta-btn-small:hover {
+            background-color: var(--primary-dark);
+            transform: translateY(-1px);
+            box-shadow: 0 6px 16px rgba(255, 107, 53, 0.35);
+        }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            padding: 5rem 1.5rem 4rem 1.5rem;
+            background: radial-gradient(circle at 80% 20%, rgba(255, 107, 53, 0.08) 0%, transparent 50%),
+                        radial-gradient(circle at 20% 80%, rgba(0, 78, 100, 0.06) 0%, transparent 50%);
+        }
+
+        .hero-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            gap: 3.5rem;
+            align-items: center;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background-color: rgba(255, 107, 53, 0.1);
+            color: var(--primary-dark);
+            padding: 0.4rem 1rem;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255, 107, 53, 0.2);
+        }
+
+        .hero-content h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.5rem;
+            line-height: 1.15;
+            color: var(--text-dark);
+            margin-bottom: 1.25rem;
+            letter-spacing: -0.02em;
+        }
+
+        .hero-content h1 span {
+            color: var(--primary);
+            font-style: italic;
+        }
+
+        .hero-subtitle {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            margin-bottom: 2.25rem;
+            max-width: 540px;
+            font-weight: 400;
+        }
+
+        .hero-actions {
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+            flex-wrap: wrap;
+        }
+
+        .btn-google-play {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.75rem;
+            background-color: #000000;
+            color: #FFFFFF;
+            padding: 0.85rem 1.75rem;
+            border-radius: 14px;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+
+        .btn-google-play:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 14px 30px rgba(0,0,0,0.25);
+        }
+
+        .play-icon {
+            width: 28px;
+            height: 28px;
+            fill: currentColor;
+        }
+
+        .btn-text-sub {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #A0AEC0;
+            display: block;
+        }
+
+        .btn-text-main {
+            font-size: 1.1rem;
+            font-weight: 700;
+            line-height: 1.1;
+        }
+
+        .btn-secondary {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.95rem 1.75rem;
+            background-color: var(--surface);
+            color: var(--text-dark);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: background-color 0.2s, border-color 0.2s;
+        }
+
+        .btn-secondary:hover {
+            background-color: #F1F5F9;
+            border-color: #CBD5E1;
+        }
+
+        /* Mockup Graphic */
+        .hero-mockup {
+            position: relative;
+            display: flex;
+            justify-content: center;
+        }
+
+        .mockup-card {
+            width: 100%;
+            max-width: 380px;
+            background: linear-gradient(160deg, #1E293B 0%, #0F172A 100%);
+            border-radius: 36px;
+            padding: 1.5rem;
+            box-shadow: var(--shadow-lg);
+            border: 8px solid #334155;
+            color: white;
+            position: relative;
+        }
+
+        .mockup-screen {
+            background-color: #0F172A;
+            border-radius: 24px;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .app-header-preview {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            padding: 1.25rem 1rem;
+            color: white;
+        }
+
+        .app-header-title {
+            font-size: 1.1rem;
+            font-weight: 800;
+        }
+
+        .app-header-subtitle {
+            font-size: 0.75rem;
+            opacity: 0.9;
+        }
+
+        .app-body-preview {
+            padding: 1.25rem 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .preview-widget {
+            background-color: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            padding: 1rem;
+        }
+
+        .widget-title {
+            font-size: 0.8rem;
+            color: #94A3B8;
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .meal-tag {
+            background: rgba(255, 107, 53, 0.2);
+            color: var(--primary-light);
+            display: inline-block;
+            padding: 0.25rem 0.6rem;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            margin-bottom: 0.35rem;
+        }
+
+        .meal-name {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #F8FAFC;
+        }
+
+        .cook-timer-badge {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #004E64;
+            padding: 0.75rem 1rem;
+            border-radius: 12px;
+            color: white;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .timer-val {
+            font-family: monospace;
+            font-size: 1rem;
+            color: #38BDF8;
+            font-weight: 700;
+        }
+
+        /* Features Section */
+        .features {
+            padding: 6rem 1.5rem;
+            background-color: var(--surface);
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .section-header {
+            text-align: center;
+            max-width: 650px;
+            margin: 0 auto 4rem auto;
+        }
+
+        .section-subtitle {
+            color: var(--primary);
+            font-weight: 800;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 0.5rem;
+        }
+
+        .section-header h2 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--text-dark);
+            letter-spacing: -0.02em;
+            line-height: 1.2;
+        }
+
+        .features-grid {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+
+        .feature-card {
+            background-color: var(--background);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 2.25rem 2rem;
+            transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--shadow-md);
+            border-color: rgba(255, 107, 53, 0.3);
+        }
+
+        .feature-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.75rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .icon-orange { background-color: rgba(255, 107, 53, 0.12); color: var(--primary); }
+        .icon-teal { background-color: rgba(0, 78, 100, 0.12); color: var(--secondary); }
+        .icon-blue { background-color: rgba(37, 99, 235, 0.12); color: var(--accent); }
+        .icon-green { background-color: rgba(16, 185, 129, 0.12); color: var(--accent-green); }
+        .icon-purple { background-color: rgba(147, 51, 234, 0.12); color: #9333EA; }
+
+        .feature-card h3 {
+            font-size: 1.35rem;
+            font-weight: 800;
+            color: var(--text-dark);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.01em;
+        }
+
+        .feature-card p {
+            color: var(--text-muted);
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        /* Banner CTA Section */
+        .cta-banner {
+            padding: 5rem 1.5rem;
+            background: linear-gradient(135deg, var(--secondary-dark) 0%, var(--secondary) 100%);
+            color: white;
+            text-align: center;
+            position: relative;
+        }
+
+        .cta-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .cta-container h2 {
+            font-size: 2.75rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+
+        .cta-container p {
+            font-size: 1.15rem;
+            color: #CBD5E1;
+            margin-bottom: 2.5rem;
+        }
+
+        .cta-center {
+            display: flex;
+            justify-content: center;
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--text-dark);
+            color: #94A3B8;
+            padding: 4rem 1.5rem 2rem 1.5rem;
+        }
+
+        .footer-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 3rem;
+            padding-bottom: 3rem;
+            border-bottom: 1px solid #334155;
+        }
+
+        .footer-brand h4 {
+            color: white;
+            font-size: 1.25rem;
+            font-weight: 800;
+            margin-bottom: 0.75rem;
+        }
+
+        .footer-brand p {
+            font-size: 0.95rem;
+            max-width: 320px;
+            line-height: 1.6;
+        }
+
+        .footer-col h5 {
+            color: white;
+            font-size: 1rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .footer-col ul {
+            list-style: none;
+        }
+
+        .footer-col li {
+            margin-bottom: 0.6rem;
+        }
+
+        .footer-col a {
+            color: #94A3B8;
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        .footer-col a:hover {
+            color: var(--primary-light);
+        }
+
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 2rem auto 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        /* Responsive Breakpoints */
+        @media (max-width: 992px) {
+            .hero-container {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            .hero-subtitle {
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .hero-actions {
+                justify-content: center;
+            }
+            .footer-container {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .nav-links {
+                display: none;
+            }
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+            .cta-container h2 {
+                font-size: 2rem;
+            }
+            .footer-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Header / Navigation -->
+<header>
+    <div class="nav-container">
+        <a href="index.html" class="brand">
+            <div class="brand-icon">S&Y</div>
+            <div>
+                <div class="brand-title">Shop <span>& Yum</span></div>
+                <div class="brand-subtitle">by ahyum Labs</div>
+            </div>
+        </a>
+        <ul class="nav-links">
+            <li><a href="#features">Features</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="mailto:support@ahyumlabs.com">Support</a></li>
+            <li><a href="#download" class="cta-btn-small">Get the App</a></li>
+        </ul>
+    </div>
+</header>
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-container">
+        <div class="hero-content">
+            <div class="hero-badge">
+                ✨ Powered by ahyum Labs
+            </div>
+            <h1>Plan Smart, Cook Delicious & <span>Waste Less.</span></h1>
+            <p class="hero-subtitle">
+                Shop & Yum is your all-in-one smart kitchen assistant. Organize weekly meals, cook hands-free with built-in timers, streamline grocery budgets, track your pantry, and discover custom AI recipes.
+            </p>
+            <div class="hero-actions">
+                <a href="#download" class="btn-google-play">
+                    <svg class="play-icon" viewBox="0 0 24 24">
+                        <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L18.81,13.12C19.06,12.87 19.06,12.46 18.81,12.21L16.81,10.21L14.41,12.61L16.81,15.12M14.41,11.39L4.85,1.83C5.08,1.72 5.35,1.67 5.63,1.76L15.63,6.76C16.32,7.11 16.32,8.08 15.63,8.43L14.41,11.39M14.41,13.83L15.63,16.79C16.32,17.14 16.32,18.11 15.63,18.46L5.63,23.46C5.35,23.55 5.08,23.5 4.85,23.39L14.41,13.83Z"/>
+                    </svg>
+                    <div>
+                        <span class="btn-text-sub">GET IT ON</span>
+                        <span class="btn-text-main">Google Play</span>
+                    </div>
+                </a>
+                <a href="#features" class="btn-secondary">Explore Features ↓</a>
+            </div>
+        </div>
+
+        <!-- Interactive Mockup Visual -->
+        <div class="hero-mockup">
+            <div class="mockup-card">
+                <div class="mockup-screen">
+                    <div class="app-header-preview">
+                        <div class="app-header-title">Shop & Yum</div>
+                        <div class="app-header-subtitle">Tonight's Dinner • Monday</div>
+                    </div>
+                    <div class="app-body-preview">
+                        <div class="preview-widget">
+                            <div class="widget-title">Active Recipe</div>
+                            <div class="meal-tag">AI Generated</div>
+                            <div class="meal-name">Creamy Garlic Tuscan Chicken</div>
+                        </div>
+                        <div class="cook-timer-badge">
+                            <span>⏱️ Step 2: Simmer Sauce</span>
+                            <span class="timer-val">08:45</span>
+                        </div>
+                        <div class="preview-widget">
+                            <div class="widget-title">Pantry Check</div>
+                            <div style="font-size: 0.85rem; color: #CBD5E1; display: flex; justify-content: space-between;">
+                                <span>Heavy Cream</span>
+                                <span style="color: #34D399; font-weight: 700;">In Stock</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Feature Highlights -->
+<section id="features" class="features">
+    <div class="section-header">
+        <div class="section-subtitle">Core Features</div>
+        <h2>Everything You Need for a Seamless Kitchen Experience</h2>
+    </div>
+
+    <div class="features-grid">
+        <!-- Feature 1: Weekly Meal Planner -->
+        <div class="feature-card">
+            <div class="feature-icon icon-orange">📅</div>
+            <h3>Weekly Meal Planner</h3>
+            <p>Effortlessly organize breakfast, lunch, and dinner for every day of the week. Drag and drop recipes, balance nutrition, and eliminate the daily "what's for dinner?" stress.</p>
+        </div>
+
+        <!-- Feature 2: Interactive Cook Mode with Timers -->
+        <div class="feature-card">
+            <div class="feature-icon icon-teal">⏱️</div>
+            <h3>Interactive Cook Mode</h3>
+            <p>Step-by-step guided cooking with hands-free interface and integrated smart multi-step timers. Never overcook pasta or burn garlic again.</p>
+        </div>
+
+        <!-- Feature 3: Budget Grocery List -->
+        <div class="feature-card">
+            <div class="feature-icon icon-blue">🛒</div>
+            <h3>Budget Grocery List</h3>
+            <p>Smart, auto-categorized shopping lists generated directly from your planned meals. Track total estimated costs in real-time to stick strictly to your household grocery budget.</p>
+        </div>
+
+        <!-- Feature 4: Pantry Tracker -->
+        <div class="feature-card">
+            <div class="feature-icon icon-green">📦</div>
+            <h3>Pantry Tracker</h3>
+            <p>Keep precise inventory of what's in your fridge, freezer, and pantry. Monitor expiration dates, minimize food waste, and know what to buy before heading out.</p>
+        </div>
+
+        <!-- Feature 5: AI Recipe Generator -->
+        <div class="feature-card">
+            <div class="feature-icon icon-purple">🤖</div>
+            <h3>AI Recipe Generator</h3>
+            <p>Have random ingredients left in your fridge? Ask our AI Chef to generate delicious, personalized recipes tailored to your dietary restrictions and current pantry items.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Download CTA Section -->
+<section id="download" class="cta-banner">
+    <div class="cta-container">
+        <h2>Ready to Upgrade Your Kitchen Routine?</h2>
+        <p>Download Shop & Yum today on Android and start planning delicious meals with ease.</p>
+        <div class="cta-center">
+            <a href="https://play.google.com/store/apps" target="_blank" rel="noopener" class="btn-google-play">
+                <svg class="play-icon" viewBox="0 0 24 24">
+                    <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L18.81,13.12C19.06,12.87 19.06,12.46 18.81,12.21L16.81,10.21L14.41,12.61L16.81,15.12M14.41,11.39L4.85,1.83C5.08,1.72 5.35,1.67 5.63,1.76L15.63,6.76C16.32,7.11 16.32,8.08 15.63,8.43L14.41,11.39M14.41,13.83L15.63,16.79C16.32,17.14 16.32,18.11 15.63,18.46L5.63,23.46C5.35,23.55 5.08,23.5 4.85,23.39L14.41,13.83Z"/>
+                </svg>
+                <div>
+                    <span class="btn-text-sub">AVAILABLE ON</span>
+                    <span class="btn-text-main">Google Play Store</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="footer-container">
+        <div class="footer-brand">
+            <h4>Shop & Yum</h4>
+            <p>Crafted with care by <strong>ahyum Labs</strong>. Simplifying meal planning, grocery shopping, and home cooking for everyone.</p>
+        </div>
+        <div class="footer-col">
+            <h5>Navigation</h5>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#download">Get App</a></li>
+                <li><a href="privacy.html">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h5>Contact & Support</h5>
+            <ul>
+                <li><a href="mailto:support@ahyumlabs.com">support@ahyumlabs.com</a></li>
+                <li><a href="privacy.html">Data Protection</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div>&copy; 2025 ahyum Labs. All rights reserved.</div>
+        <div>Shop & Yum is a trademark of ahyum Labs.</div>
+    </div>
+</footer>
+
+</body>
+</html>
