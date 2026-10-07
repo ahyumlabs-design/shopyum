@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Shop & Yum | ahyum Labs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #FF6B35;
+            --primary-dark: #E85520;
+            --primary-light: #FF885B;
+            --secondary: #004E64;
+            --surface: #FFFFFF;
+            --background: #F8FAFC;
+            --text-main: #0F172A;
+            --text-muted: #475569;
+            --border: #E2E8F0;
+            --card-bg: #FFFFFF;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--background);
+            color: var(--text-main);
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        header {
+            background-color: var(--surface);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .logo-link {
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo-badge {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 800;
+            font-size: 1.2rem;
+            box-shadow: 0 4px 12px rgba(255, 107, 53, 0.25);
+        }
+
+        .logo-text {
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: var(--text-main);
+            letter-spacing: -0.02em;
+        }
+
+        .logo-text span {
+            color: var(--primary);
+        }
+
+        .nav-back {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        .nav-back:hover {
+            color: var(--primary);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2.5rem auto 4rem auto;
+            padding: 0 1.5rem;
+        }
+
+        .policy-card {
+            background-color: var(--card-bg);
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            padding: 2.5rem 3rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+        }
+
+        @media (max-width: 640px) {
+            .policy-card {
+                padding: 1.5rem 1.25rem;
+            }
+        }
+
+        .policy-header {
+            border-bottom: 2px solid var(--background);
+            padding-bottom: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .policy-header h1 {
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--text-main);
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .meta-info {
+            display: flex;
+            gap: 1.5rem;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .meta-info span {
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h2 {
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.01em;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .section p {
+            color: var(--text-muted);
+            margin-bottom: 1rem;
+            font-size: 1rem;
+        }
+
+        .section ul {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-muted);
+        }
+
+        .section li {
+            margin-bottom: 0.5rem;
+        }
+
+        .highlight-box {
+            background-color: rgba(255, 107, 53, 0.06);
+            border-left: 4px solid var(--primary);
+            padding: 1rem 1.25rem;
+            border-radius: 0 8px 8px 0;
+            margin: 1.25rem 0;
+            font-size: 0.95rem;
+            color: #334155;
+        }
+
+        .contact-card {
+            background-color: var(--background);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .contact-card a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .contact-card a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 1.5rem;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--border);
+            background-color: var(--surface);
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="header-container">
+        <a href="index.html" class="logo-link">
+            <div class="logo-badge">S&Y</div>
+            <div class="logo-text">Shop <span>& Yum</span></div>
+        </a>
+        <a href="index.html" class="nav-back">← Back to Home</a>
+    </div>
+</header>
+
+<div class="container">
+    <div class="policy-card">
+        <div class="policy-header">
+            <h1>Privacy Policy</h1>
+            <div class="meta-info">
+                <span><strong>Developer:</strong> ahyum Labs</span>
+                <span>•</span>
+                <span><strong>App:</strong> Shop & Yum</span>
+                <span>•</span>
+                <span><strong>Last Updated:</strong> March 2025</span>
+            </div>
+        </div>
+
+        <div class="highlight-box">
+            <strong>Summary:</strong> Your privacy is important to us. <strong>Shop & Yum</strong> by <strong>ahyum Labs</strong> is designed to respect your data. We store your meal plans, grocery items, and pantry data locally on your device whenever possible. Third-party partners like Google AdMob and Google Play Billing may collect standard diagnostics, device identifiers, or payment details necessary for app operation.
+        </div>
+
+        <div class="section">
+            <h2>1. Introduction</h2>
+            <p>Welcome to <strong>Shop & Yum</strong> ("the App"), developed and operated by <strong>ahyum Labs</strong> ("we", "us", or "our"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application available on the Google Play Store.</p>
+            <p>Please read this privacy policy carefully. By installing and using Shop & Yum, you consent to the data practices described in this policy.</p>
+        </div>
+
+        <div class="section">
+            <h2>2. Information We Collect</h2>
+            <p>We categorize information collected into user-provided data and automatically collected data:</p>
+
+            <h3>A. User-Provided Data</h3>
+            <ul>
+                <li><strong>Meal Plans & Recipes:</strong> Meals, custom recipes, cooking schedules, and saved recipes you generate or input into the App.</li>
+                <li><strong>Grocery & Pantry Inventories:</strong> Food items, prices, quantities, and categories created in your shopping list or pantry manager.</li>
+                <li><strong>AI Recipe Prompts:</strong> Text prompts or dietary preferences entered into the AI Recipe Generator feature to craft recipe suggestions.</li>
+            </ul>
+
+            <h3>B. Automatically Collected Data</h3>
+            <ul>
+                <li><strong>Device Identifiers & Technical Data:</strong> Device model, operating system version, unique device identifiers (e.g., Android Advertising ID), network provider, and language settings.</li>
+                <li><strong>App Performance & Usage Analytics:</strong> Screen views, feature usage duration, error logs, crash reports, and system performance metrics collected to fix bugs and enhance reliability.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. How We Use Your Information</h2>
+            <p>ahyum Labs uses collected data for the following legitimate purposes:</p>
+            <ul>
+                <li>To deliver core App features (Weekly Meal Planner, Interactive Cook Mode, Budget Grocery List, Pantry Tracker, and AI Recipe Generator).</li>
+                <li>To display advertisements via Google AdMob (supporting our free app offering).</li>
+                <li>To process digital subscriptions or in-app purchases securely via Google Play Billing.</li>
+                <li>To monitor app health, fix software bugs, and optimize battery and layout performance across various Android devices.</li>
+                <li>To respond to user support inquiries sent to <code>support@ahyumlabs.com</code>.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>4. Third-Party Services & Integrations</h2>
+            <p>Shop & Yum utilizes trusted third-party services that may collect information used to identify your device or process transactions in accordance with their respective privacy policies:</p>
+
+            <ul>
+                <li>
+                    <strong>Google Play Services:</strong> Core Android system functions and app stability.
+                    <br><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>
+                </li>
+                <li>
+                    <strong>Google AdMob:</strong> Serves contextual or personalized advertisements. AdMob may collect and use your Android Advertising ID to provide tailored ad content and prevent fraud.
+                    <br><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener">Google AdMob Privacy & Policy Information</a>
+                </li>
+                <li>
+                    <strong>Google Play Billing:</strong> Handles secure payment processing for premium features or subscriptions. Financial details (credit card information, billing address) are processed exclusively by Google Play and are never accessible to ahyum Labs.
+                    <br><a href="https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice" target="_blank" rel="noopener">Google Payments Privacy Notice</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>5. Advertising & Choice (Advertising ID)</h2>
+            <p>Shop & Yum includes advertisements powered by Google AdMob. You can manage or reset your Android Advertising ID and opt out of personalized advertising at any time through your Android device settings:</p>
+            <p><em>Settings → Google → Ads → Reset Advertising ID or Delete Advertising ID.</em></p>
+        </div>
+
+        <div class="section">
+            <h2>6. Data Storage & Security</h2>
+            <p>Your meal plans, grocery lists, and pantry contents are stored locally on your device's internal app storage. We implement standard industry security practices to protect any transmitted data against unauthorized access, loss, or alteration. However, please be aware that no electronic transmission over the internet or storage method is 100% secure.</p>
+        </div>
+
+        <div class="section">
+            <h2>7. Children's Privacy (COPPA Compliance)</h2>
+            <p>Shop & Yum is intended for general audiences and is not directed to children under the age of 13. We do not knowingly collect personal identifiable information from children under 13. If you are a parent or legal guardian and believe your child has provided us with personal information, please contact us at <code>support@ahyumlabs.com</code> so we can promptly delete the data.</p>
+        </div>
+
+        <div class="section">
+            <h2>8. Data Retention & Deletion Rights</h2>
+            <p>Since your cooking and grocery data is primarily stored on your device, uninstalling the App will permanently remove all locally cached user data. If you have questions regarding data deletion requests or account data, contact us at our support email below.</p>
+        </div>
+
+        <div class="section">
+            <h2>9. Changes to This Privacy Policy</h2>
+            <p>We may update our Privacy Policy periodically to reflect changes in legal requirements, third-party policies, or App features. Any updates will be posted on this page with an updated "Last Updated" revision date.</p>
+        </div>
+
+        <div class="section">
+            <h2>10. Contact Us</h2>
+            <p>If you have any questions, suggestions, or concerns regarding this Privacy Policy or our privacy practices, please contact <strong>ahyum Labs</strong> at:</p>
+            <div class="contact-card">
+                <p><strong>ahyum Labs Support</strong></p>
+                <p>Email: <a href="mailto:support@ahyumlabs.com">support@ahyumlabs.com</a></p>
+                <p>Application: Shop & Yum (Android)</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 ahyum Labs. All rights reserved. | <a href="index.html">Shop & Yum Home</a></p>
+</footer>
+
+</body>
+</html>

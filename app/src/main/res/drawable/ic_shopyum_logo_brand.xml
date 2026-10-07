@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Green & Pink Curved Accent Swooshes & Sparkles -->
+    <group android:name="background_accents">
+        <!-- Green Curved Accent Swoosh (Left) -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M 14,102 C 2,70 12,32 42,16 C 30,26 18,54 26,90 C 28,98 22,106 14,102 Z" />
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M 20,94 C 10,68 20,38 42,24 C 32,32 24,56 28,86 Z" />
+
+        <!-- Pink Curved Accent Swoosh (Right) -->
+        <path
+            android:fillColor="#E91E63"
+            android:pathData="M 114,102 C 126,70 116,32 86,16 C 98,26 110,54 102,90 C 100,98 106,106 114,102 Z" />
+        <path
+            android:fillColor="#FF80AB"
+            android:pathData="M 108,94 C 118,68 108,38 86,24 C 96,32 104,56 100,86 Z" />
+
+        <!-- Decorative Sparkles -->
+        <!-- Top-Left Cyan Sparkle -->
+        <path
+            android:fillColor="#00BCD4"
+            android:pathData="M 20,12 L 21.5,16.5 L 26,18 L 21.5,19.5 L 20,24 L 18.5,19.5 L 14,18 L 18.5,16.5 Z" />
+        <!-- Top-Right Gold Sparkle -->
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M 108,12 L 109.5,16.5 L 114,18 L 109.5,19.5 L 108,24 L 106.5,19.5 L 102,18 L 106.5,16.5 Z" />
+        <!-- Bottom-Center Pink Sparkle -->
+        <path
+            android:fillColor="#E91E63"
+            android:pathData="M 64,115 L 65.2,118.8 L 69,120 L 65.2,121.2 L 64,125 L 62.8,121.2 L 59,120 L 62.8,118.8 Z" />
+        <!-- Small accent dots -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M 10,50 A 2,2 0 1,1 10,46 A 2,2 0 1,1 10,50 Z" />
+        <path
+            android:fillColor="#FF4081"
+            android:pathData="M 118,50 A 2,2 0 1,1 118,46 A 2,2 0 1,1 118,50 Z" />
+        <path
+            android:fillColor="#00BCD4"
+            android:pathData="M 30,110 A 1.8,1.8 0 1,1 30,106.4 A 1.8,1.8 0 1,1 30,110 Z" />
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M 98,110 A 1.8,1.8 0 1,1 98,106.4 A 1.8,1.8 0 1,1 98,110 Z" />
+    </group>
+
+    <!-- LEFT: Orange Grocery Bag with Fresh Green Produce -->
+    <group android:name="grocery_bag">
+        <!-- Fresh Green Produce Sticking Out Top -->
+        <!-- Deep Green Leaf -->
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M 28,42 C 20,28 28,18 36,22 C 40,26 36,36 30,42 Z" />
+        <!-- Bright Green Leaf -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M 34,40 C 28,26 38,16 44,22 C 48,28 42,38 36,40 Z" />
+        <!-- Light Green Stalk / Celery Leaf -->
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M 42,38 C 38,28 46,20 50,26 C 52,32 46,38 42,38 Z" />
+        <!-- Carrot Top Peeking Out -->
+        <path
+            android:fillColor="#FF5722"
+            android:pathData="M 24,36 C 20,30 24,26 28,30 C 30,34 26,38 24,36 Z" />
+        <path
+            android:fillColor="#388E3C"
+            android:pathData="M 22,28 C 18,22 22,20 24,24 Z" />
+        <!-- Red Apple -->
+        <path
+            android:fillColor="#E53935"
+            android:pathData="M 42,42 C 40,36 48,36 48,42 C 48,46 40,46 42,42 Z" />
+
+        <!-- Bag Handles -->
+        <path
+            android:strokeColor="#E65100"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:pathData="M 30,42 C 30,30 42,30 42,42" />
+
+        <!-- Grocery Bag Main Body (Orange #FF9800) -->
+        <path
+            android:fillColor="#FF9800"
+            android:pathData="M 22,42 L 50,42 C 52,42 53.5,43.5 53,46 L 49,76 C 48.5,78.5 46.5,80 44,80 L 28,80 C 25.5,80 23.5,78.5 23,76 L 19,46 C 18.5,43.5 20,42 22,42 Z" />
+
+        <!-- Bag Side Shadow / Fold (#F57C00) -->
+        <path
+            android:fillColor="#F57C00"
+            android:pathData="M 19,46 L 27,42 L 25,80 L 23,76 C 22.5,74.5 19,46 19,46 Z" />
+
+        <!-- Bag Top Fold Cuff (#FFA726) -->
+        <path
+            android:fillColor="#FFA726"
+            android:pathData="M 21,42 L 51,42 C 52.5,42 53,44 52.5,46 L 20,46 C 19.5,44 20,42 21,42 Z" />
+
+        <!-- Bag Crease Details -->
+        <path
+            android:strokeColor="#FB8C00"
+            android:strokeWidth="1.5"
+            android:pathData="M 22,52 L 50,52" />
+        <path
+            android:strokeColor="#F57C00"
+            android:strokeWidth="1.5"
+            android:pathData="M 24,66 C 28,68 44,68 48,66" />
+    </group>
+
+    <!-- RIGHT: Delicious Cupcake with Pink Swirl Frosting and Red Cherry -->
+    <group android:name="cupcake">
+        <!-- Cupcake Baking Wrapper -->
+        <path
+            android:fillColor="#FFCA28"
+            android:pathData="M 78,56 L 106,56 L 101,80 C 100.2,82.5 98,84 95,84 L 89,84 C 86,84 83.8,82.5 83,80 Z" />
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M 83,80 L 101,80 L 99,82 C 98,83.5 96,84 94,84 L 90,84 C 88,84 86,83.5 85,82 Z" />
+
+        <!-- Fluting Ribbing Lines -->
+        <path
+            android:strokeColor="#FF8F00"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M 82,56 L 85,83 M 88,56 L 89,84 M 94,56 L 94,84 M 100,56 L 99,84 M 104,56 L 102,82" />
+
+        <!-- Sponge Cake Layer -->
+        <path
+            android:fillColor="#FFB74D"
+            android:pathData="M 76,56 C 76,48 108,48 108,56 Z" />
+
+        <!-- Pink Swirl Frosting Layers (#FF4081, #FF80AB, #E91E63) -->
+        <!-- Bottom Frosting Layer -->
+        <path
+            android:fillColor="#FF4081"
+            android:pathData="M 74,55 C 72,48 82,42 92,45 C 102,42 112,48 110,55 C 108,60 76,60 74,55 Z" />
+        <!-- Middle Frosting Swirl -->
+        <path
+            android:fillColor="#FF80AB"
+            android:pathData="M 78,48 C 76,40 86,34 92,38 C 98,34 108,40 106,48 C 104,52 80,52 78,48 Z" />
+        <!-- Top Frosting Peak -->
+        <path
+            android:fillColor="#E91E63"
+            android:pathData="M 83,40 C 81,32 92,26 92,29 C 92,26 103,32 101,40 C 99,44 85,44 83,40 Z" />
+
+        <!-- Frosting Highlights -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:pathData="M 82,45 C 86,43 96,43 100,47" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M 86,36 C 89,34 95,34 97,38" />
+
+        <!-- Red Cherry on Top (#D50000) -->
+        <!-- Cherry Stem -->
+        <path
+            android:strokeColor="#388E3C"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M 92,21 C 94,14 99,11 103,13" />
+        <!-- Cherry Sphere -->
+        <path
+            android:fillColor="#D50000"
+            android:pathData="M 92,20 C 95.8,20 99,22.8 99,26 C 99,29.2 95.8,32 92,32 C 88.2,32 85,29.2 85,26 C 85,22.8 88.2,20 92,20 Z" />
+        <!-- Cherry Gloss Highlight -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M 88,23 C 90,21 93,21 94,23" />
+    </group>
+
+    <!-- BOTTOM CENTER: Golden Pizza Slice with Melted Cheese and Red Pepperoni -->
+    <group android:name="pizza_slice">
+        <!-- Pizza Golden Brown Outer Crust -->
+        <path
+            android:fillColor="#E65100"
+            android:pathData="M 40,78 C 54,71 74,71 88,78 C 91,80 89,85 84,85 C 73,79 55,79 44,85 C 39,85 37,80 40,78 Z" />
+        <path
+            android:strokeColor="#FFB74D"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M 42,79 C 55,73 73,73 86,79" />
+
+        <!-- Golden Melted Cheese Base (#FFC107) -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M 42,83 C 55,77 73,77 86,83 L 67,117 C 65.5,120 62.5,120 61,117 Z" />
+        <!-- Melted Cheese Highlight (#FFD54F) -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M 44,84 C 55,79 73,79 84,84 L 76,96 C 68,93 60,93 52,96 Z" />
+
+        <!-- Cheese Drips -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M 56,104 C 54,110 58,110 56,104 Z" />
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M 64,116 C 62,122 66,122 64,116 Z" />
+
+        <!-- Red Pepperoni Slices (#E53935, #D32F2F) -->
+        <!-- Pepperoni 1 (Left) -->
+        <path
+            android:fillColor="#E53935"
+            android:strokeColor="#C62828"
+            android:strokeWidth="0.8"
+            android:pathData="M 53,83.5 C 55.5,83.5 57.5,85.5 57.5,88 C 57.5,90.5 55.5,92.5 53,92.5 C 50.5,92.5 48.5,90.5 48.5,88 C 48.5,85.5 50.5,83.5 53,83.5 Z" />
+        <!-- Pepperoni 2 (Right) -->
+        <path
+            android:fillColor="#E53935"
+            android:strokeColor="#C62828"
+            android:strokeWidth="0.8"
+            android:pathData="M 75,83.5 C 77.5,83.5 79.5,85.5 79.5,88 C 79.5,90.5 77.5,92.5 75,92.5 C 72.5,92.5 70.5,90.5 70.5,88 C 70.5,85.5 72.5,83.5 75,83.5 Z" />
+        <!-- Pepperoni 3 (Center) -->
+        <path
+            android:fillColor="#D32F2F"
+            android:strokeColor="#B71C1C"
+            android:strokeWidth="0.8"
+            android:pathData="M 64,95 C 66.8,95 69,97.2 69,100 C 69,102.8 66.8,105 64,105 C 61.2,105 59,102.8 59,100 C 59,97.2 61.2,95 64,95 Z" />
+
+        <!-- Green Oregano Specks -->
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M 58,94 L 60,93 L 59,95 Z" />
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M 70,96 L 72,95 L 71,97 Z" />
+        <path
+            android:fillColor="#2E7D32"
+            android:pathData="M 62,108 L 64,107 L 63,109 Z" />
+    </group>
+
+    <!-- CENTRAL BADGE: "Shop & Yum" Branding (#FFA000, #E91E63, #00BCD4) -->
+    <group android:name="central_badge">
+        <!-- Badge Backing Base -->
+        <path
+            android:fillColor="#1A1C2E"
+            android:pathData="M 26,63 C 26,51 37,45 64,45 C 91,45 102,51 102,63 C 102,75 91,81 64,81 C 37,81 26,75 26,63 Z" />
+
+        <!-- Ribbon Left Flared Wing (#E91E63) -->
+        <path
+            android:fillColor="#E91E63"
+            android:pathData="M 22,63 L 34,51 L 34,75 Z" />
+
+        <!-- Ribbon Right Flared Wing (#00BCD4) -->
+        <path
+            android:fillColor="#00BCD4"
+            android:pathData="M 106,63 L 94,51 L 94,75 Z" />
+
+        <!-- Outer Gold Frame Border (#FFA000) -->
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M 28,63 C 28,52 38,47 64,47 C 90,47 100,52 100,63 C 100,74 90,79 64,79 C 38,79 28,74 28,63 Z" />
+
+        <!-- Inner Badge Field (Dark Midnight Indigo) -->
+        <path
+            android:fillColor="#1E1B4B"
+            android:pathData="M 31,63 C 31,54 40,50 64,50 C 88,50 97,54 97,63 C 97,72 88,76 64,76 C 40,76 31,72 31,63 Z" />
+
+        <!-- Top Cyan Trim Line (#00BCD4) -->
+        <path
+            android:strokeColor="#00BCD4"
+            android:strokeWidth="1.2"
+            android:pathData="M 36,53 C 48,51 80,51 92,53" />
+
+        <!-- Bottom Pink Trim Line (#E91E63) -->
+        <path
+            android:strokeColor="#E91E63"
+            android:strokeWidth="1.2"
+            android:pathData="M 36,73 C 48,75 80,75 92,73" />
+
+        <!-- Vector Branding Text: "Shop & Yum" -->
+        <!-- "Shop" in Gold (#FFA000) -->
+        <!-- S -->
+        <path
+            android:strokeColor="#FFA000"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 40,59 C 40,57 36,57 36,60 C 36,63 40,63 40,66 C 40,69 36,69 36,67" />
+        <!-- h -->
+        <path
+            android:strokeColor="#FFA000"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 43,57 L 43,69 M 43,62 C 43,60 47,60 47,62 L 47,69" />
+        <!-- o -->
+        <path
+            android:strokeColor="#FFA000"
+            android:strokeWidth="2.0"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 52,60 C 49.5,60 49.5,69 52,69 C 54.5,69 54.5,60 52,60 Z" />
+        <!-- p -->
+        <path
+            android:strokeColor="#FFA000"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 57,60 L 57,72 M 57,60 C 61,60 61,66 57,66" />
+
+        <!-- "&" in Pink (#E91E63) -->
+        <path
+            android:strokeColor="#E91E63"
+            android:strokeWidth="2.0"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 67,68 C 64,66 64,64 66,62 C 67,60 65,58 64,59 C 63,60 64,63 67,65 L 64,68" />
+
+        <!-- "Yum" in Cyan (#00BCD4) -->
+        <!-- Y -->
+        <path
+            android:strokeColor="#00BCD4"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 70,57 L 72,63 L 74,57 M 72,63 L 72,69" />
+        <!-- u -->
+        <path
+            android:strokeColor="#00BCD4"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 77,60 L 77,66 C 77,69 81,69 81,66 L 81,60" />
+        <!-- m -->
+        <path
+            android:strokeColor="#00BCD4"
+            android:strokeWidth="2.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M 84,60 L 84,69 M 84,62 C 84,60 87,60 87,63 L 87,69 M 87,62 C 87,60 90,60 90,63 L 90,69" />
+    </group>
+</vector>
