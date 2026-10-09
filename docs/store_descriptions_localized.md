@@ -90,7 +90,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking and grocery shopping experience!
 ```
@@ -171,7 +171,7 @@ Ya sea que quieras organizar tus cenas semanales, controlar los ingredientes de 
 
 🌐 Sitio web: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu cocina y tus compras!
 ```
@@ -252,7 +252,7 @@ Que vous souhaitiez organiser vos dîners de la semaine, gérer le stock de votr
 
 🌐 Site Web : https://ahyumlabs-design.github.io/shopyum/
 🔒 Politique de confidentialité : https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support : support@ahyumlabs.com
+📧 Support : ahyum.labs@gmail.com
 
 Téléchargez Shop & Yum dès aujourd'hui et réinventez votre quotidien en cuisine !
 ```
@@ -333,7 +333,7 @@ Egal, ob Sie wöchentliche Abendessen organisieren, Ihren Vorrat verwalten, Ihr 
 
 🌐 Website: https://ahyumlabs-design.github.io/shopyum/
 🔒 Datenschutz: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Laden Sie Shop & Yum noch heute herunter und revolutionieren Sie Ihr Kochen & Einkaufen!
 ```
@@ -414,7 +414,7 @@ Quer você queira organizar jantares semanais, controlar o estoque da despensa, 
 
 🌐 Website: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidade: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Suporte: support@ahyumlabs.com
+📧 Suporte: ahyum.labs@gmail.com
 
 Baixe o Shop & Yum hoje mesmo e revolucione sua cozinha e suas compras!
 ```
@@ -495,7 +495,7 @@ Che tu voglia organizzare le cene della settimana, gestire la dispensa, rispetta
 
 🌐 Sito web: https://ahyumlabs-design.github.io/shopyum/
 🔒 Informativa sulla privacy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Supporto: support@ahyumlabs.com
+📧 Supporto: ahyum.labs@gmail.com
 
 Scarica Shop & Yum oggi stesso e rivoluziona la tua cucina e la tua spesa!
 ```
@@ -576,7 +576,7 @@ Shop & Yum（ショップ＆ヤム）で、毎日の献立作成、買い物、�
 
 🌐 公式サイト: https://ahyumlabs-design.github.io/shopyum/
 🔒 プライバシーポリシー: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 サポートお問い合わせ: support@ahyumlabs.com
+📧 サポートお問い合わせ: ahyum.labs@gmail.com
 
 今すぐ Shop & Yum をダウンロードして、賢く楽しい自炊生活をスタートしましょう！
 ```
@@ -657,7 +657,7 @@ Shop & Yum(샵앤얌)과 함께 식단 계획, 장보기, 홈쿠킹을 한층 �
 
 🌐 공식 웹사이트: https://ahyumlabs-design.github.io/shopyum/
 🔒 개인정보 처리방침: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 고객 지원: support@ahyumlabs.com
+📧 고객 지원: ahyum.labs@gmail.com
 
 지금 Shop & Yum을 다운로드하고 더욱 똑똑하고 즐거운 식생활을 시작해 보세요!
 ```

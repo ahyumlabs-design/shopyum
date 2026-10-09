@@ -118,7 +118,7 @@ Transformeer die manier waarop jy etes beplan, inkopies doen en tuis kook met Sh
 
 🌐 Kom meer te wete: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privaatheidsbeleid: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Ondersteuning: support@ahyumlabs.com
+📧 Ondersteuning: ahyum.labs@gmail.com
 ```
 
 ---
@@ -196,7 +196,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -227,7 +227,7 @@ Shop & Yum ile yemek planlama, alışveriş ve evde yemek pişirme şeklinizi de
 
 🌐 Daha fazla bilgi: https://ahyumlabs-design.github.io/shopyum/
 🔒 Gizlilik Politikası: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Destek: support@ahyumlabs.com
+📧 Destek: ahyum.labs@gmail.com
 ```
 
 ---
@@ -256,7 +256,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 Pata maelezo zaidi: https://ahyumlabs-design.github.io/shopyum/
 🔒 Sera ya Faragha: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Usaidizi: support@ahyumlabs.com
+📧 Usaidizi: ahyum.labs@gmail.com
 ```
 
 ---
@@ -331,7 +331,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 معرفة المزيد: https://ahyumlabs-design.github.io/shopyum/
 🔒 سياسة الخصوصية: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 الدعم: support@ahyumlabs.com
+📧 الدعم: ahyum.labs@gmail.com
 
 حمل Shop & Yum اليوم ورتب مطبخك وتفكيرك في الطهي والتسوق!
 ```
@@ -398,7 +398,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -465,7 +465,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -496,7 +496,7 @@ Shop & Yum-এর সাথে আপনার খাবারের পরি�
 
 🌐 বিস্তারিত: https://ahyumlabs-design.github.io/shopyum/
 🔒 গোপনীয়তা নীতি: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 সহায়তা: support@ahyumlabs.com
+📧 সহায়তা: ahyum.labs@gmail.com
 ```
 
 ---
@@ -571,7 +571,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -638,7 +638,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -669,7 +669,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Още: https://ahyumlabs-design.github.io/shopyum/
 🔒 Поверителност: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддръжка: support@ahyumlabs.com
+📧 Поддръжка: ahyum.labs@gmail.com
 ```
 
 ---
@@ -698,7 +698,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 ดูข้อมูลเพิ่มเติม: https://ahyumlabs-design.github.io/shopyum/
 🔒 นโยบายความเป็นส่วนตัว: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 ฝ่ายซัพพอร์ต: support@ahyumlabs.com
+📧 ฝ่ายซัพพอร์ต: ahyum.labs@gmail.com
 ```
 
 ---
@@ -773,7 +773,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -850,7 +850,7 @@ Shop & Yum 讓您的膳食規劃、食材採購與日常烹飪變得前所未有
 
 🌐 了解更多：https://ahyumlabs-design.github.io/shopyum/
 🔒 隱私權政策：https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 技術支援：support@ahyumlabs.com
+📧 技術支援：ahyum.labs@gmail.com
 
 立即下載 Shop & Yum，開啟聰明便利的廚房生活！
 ```
@@ -927,7 +927,7 @@ Shop & Yum 讓您的膳食規劃、食材採購與日常烹飪變得前所未有
 
 🌐 了解更多：https://ahyumlabs-design.github.io/shopyum/
 🔒 隱私權政策：https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 技術支援：support@ahyumlabs.com
+📧 技術支援：ahyum.labs@gmail.com
 
 立即下載 Shop & Yum，開啟聰明便利的廚房生活！
 ```
@@ -1004,7 +1004,7 @@ Shop & Yum 讓您的膳食規劃、食材採購與日常烹飪變得前所未有
 
 🌐 了解更多：https://ahyumlabs-design.github.io/shopyum/
 🔒 隱私權政策：https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 技術支援：support@ahyumlabs.com
+📧 技術支援：ahyum.labs@gmail.com
 
 立即下載 Shop & Yum，開啟聰明便利的廚房生活！
 ```
@@ -1035,7 +1035,7 @@ Transformirajte način na koji planirate obroke, kupujete namirnice i kuhate kod
 
 🌐 Saznajte više: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatnost: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Podrška: support@ahyumlabs.com
+📧 Podrška: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1064,7 +1064,7 @@ Změňte způsob, jakým plánujete jídla, nakupujete a vaříte doma s Shop & 
 
 🌐 Více: https://ahyumlabs-design.github.io/shopyum/
 🔒 Ochrana soukromí: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Podpora: support@ahyumlabs.com
+📧 Podpora: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1093,7 +1093,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 Læs mere: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatlivspolitik: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1122,7 +1122,7 @@ Transformeer de manier waarop je maaltijden plant, boodschappen doet en kookt me
 
 🌐 Meer info: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacybeleid: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1200,7 +1200,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1280,7 +1280,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1360,7 +1360,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1440,7 +1440,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1520,7 +1520,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1600,7 +1600,7 @@ Whether you want to organize weekly dinners, track pantry inventory, stay on bud
 
 🌐 Learn more: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privacy Policy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Download Shop & Yum today and revolutionize your cooking, grocery shopping, and meal planning experience!
 ```
@@ -1631,7 +1631,7 @@ Muuda oma toidukordade planeerimist, ostlemist ja kokkamist Shop & Yum rakenduse
 
 🌐 Lisateave: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privaatsus: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Tugi: support@ahyumlabs.com
+📧 Tugi: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1660,7 +1660,7 @@ Baguhin ang paraan ng pagpaplano ng pagkain, pag-gro-grocery, at pagluluto sa ba
 
 🌐 Alamin ang iba pa: https://ahyumlabs-design.github.io/shopyum/
 🔒 Kebijakan sa Privacy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Suporta: support@ahyumlabs.com
+📧 Suporta: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1689,7 +1689,7 @@ Uudista ateriasuunnittelu, ostosten teko ja ruoanlaitto Shop & Yum -sovelluksell
 
 🌐 Lisätietoja: https://ahyumlabs-design.github.io/shopyum/
 🔒 Tietosuoja: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Tuki: support@ahyumlabs.com
+📧 Tuki: ahyum.labs@gmail.com
 ```
 
 ---
@@ -1764,7 +1764,7 @@ Que vous souhaitiez organiser vos menus de la semaine, gérer le stock de votre 
 
 🌐 En savoir plus : https://ahyumlabs-design.github.io/shopyum/
 🔒 Politique de confidentialité : https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support : support@ahyumlabs.com
+📧 Support : ahyum.labs@gmail.com
 
 Téléchargez Shop & Yum dès aujourd'hui et révolutionnez votre cuisine au quotidien !
 ```
@@ -1841,7 +1841,7 @@ Que vous souhaitiez organiser vos menus de la semaine, gérer le stock de votre 
 
 🌐 En savoir plus : https://ahyumlabs-design.github.io/shopyum/
 🔒 Politique de confidentialité : https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support : support@ahyumlabs.com
+📧 Support : ahyum.labs@gmail.com
 
 Téléchargez Shop & Yum dès aujourd'hui et révolutionnez votre cuisine au quotidien !
 ```
@@ -1918,7 +1918,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -1985,7 +1985,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -2062,7 +2062,7 @@ Egal ob Sie Ihren Wochenmenüplan organisieren, den Vorratskammereinsatz verfolg
 
 🌐 Mehr erfahren: https://ahyumlabs-design.github.io/shopyum/
 🔒 Datenschutz: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 
 Laden Sie Shop & Yum heute herunter und revolutionieren Sie Ihr Koch- und Einkauferlebnis!
 ```
@@ -2093,7 +2093,7 @@ Laden Sie Shop & Yum heute herunter und revolutionieren Sie Ihr Koch- und Einkau
 
 🌐 Μάθετε περισσότερα: https://ahyumlabs-design.github.io/shopyum/
 🔒 Πολιτική Απορρήτου: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Υποστήριξη: support@ahyumlabs.com
+📧 Υποστήριξη: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2122,7 +2122,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2151,7 +2151,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 למידע נוסף: https://ahyumlabs-design.github.io/shopyum/
 🔒 מדיניות פרטיות: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 תמיכה: support@ahyumlabs.com
+📧 תמיכה: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2180,7 +2180,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2209,7 +2209,7 @@ Reformálja meg az étkezések tervezését, a bevásárlást és a főzést a S
 
 🌐 További infó: https://ahyumlabs-design.github.io/shopyum/
 🔒 Adatvédelem: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Támogatás: support@ahyumlabs.com
+📧 Támogatás: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2238,7 +2238,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 Læs mere: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatlivspolitik: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2267,7 +2267,7 @@ Ubah cara Anda merencanakan menu, berbelanja, dan memasak di rumah dengan Shop &
 
 🌐 Pelajari lebih lanjut: https://ahyumlabs-design.github.io/shopyum/
 🔒 Kebijakan Privasi: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Dukungan: support@ahyumlabs.com
+📧 Dukungan: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2342,7 +2342,7 @@ Che tu voglia organizzare il menu settimanale, monitorare la dispensa, rispettar
 
 🌐 Per saperne di più: https://ahyumlabs-design.github.io/shopyum/
 🔒 Informativa sulla privacy: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Supporto: support@ahyumlabs.com
+📧 Supporto: ahyum.labs@gmail.com
 
 Scarica Shop & Yum oggi e rivoluziona il tuo modo di cucinare, fare la spesa e pianificare i pasti!
 ```
@@ -2419,7 +2419,7 @@ Shop & Yumで毎日の献立作成、買い物、自炊をもっとスマート�
 
 🌐 詳細情報: https://ahyumlabs-design.github.io/shopyum/
 🔒 プライバシーポリシー: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 サポート: support@ahyumlabs.com
+📧 サポート: ahyum.labs@gmail.com
 
 今すぐShop & Yumをダウンロードして、毎日の料理と買い物を楽しく快適に変えましょう！
 ```
@@ -2450,7 +2450,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2515,7 +2515,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -2546,7 +2546,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 ดูข้อมูลเพิ่มเติม: https://ahyumlabs-design.github.io/shopyum/
 🔒 นโยบายความเป็นส่วนตัว: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 ฝ่ายซัพพอร์ต: support@ahyumlabs.com
+📧 ฝ่ายซัพพอร์ต: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2621,7 +2621,7 @@ Shop & Yum과 함께 식단 계획, 장보기, 요리를 더욱 스마트하고 
 
 🌐 자세히 알아보기: https://ahyumlabs-design.github.io/shopyum/
 🔒 개인정보 처리방침: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 지원: support@ahyumlabs.com
+📧 지원: ahyum.labs@gmail.com
 
 지금 Shop & Yum을 다운로드하고 요리와 장보기를 혁신해 보세요!
 ```
@@ -2688,7 +2688,7 @@ Shop & Yum과 함께 식단 계획, 장보기, 요리를 더욱 스마트하고 
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -2719,7 +2719,7 @@ Shop & Yum과 함께 식단 계획, 장보기, 요리를 더욱 스마트하고 
 
 🌐 ดูข้อมูลเพิ่มเติม: https://ahyumlabs-design.github.io/shopyum/
 🔒 นโยบายความเป็นส่วนตัว: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 ฝ่ายซัพพอร์ต: support@ahyumlabs.com
+📧 ฝ่ายซัพพอร์ต: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2748,7 +2748,7 @@ Muuda oma toidukordade planeerimist, ostlemist ja kokkamist Shop & Yum rakenduse
 
 🌐 Lisateave: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privaatsus: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Tugi: support@ahyumlabs.com
+📧 Tugi: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2777,7 +2777,7 @@ Muuda oma toidukordade planeerimist, ostlemist ja kokkamist Shop & Yum rakenduse
 
 🌐 Lisateave: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privaatsus: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Tugi: support@ahyumlabs.com
+📧 Tugi: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2806,7 +2806,7 @@ Muuda oma toidukordade planeerimist, ostlemist ja kokkamist Shop & Yum rakenduse
 
 🌐 Още: https://ahyumlabs-design.github.io/shopyum/
 🔒 Поверителност: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддръжка: support@ahyumlabs.com
+📧 Поддръжка: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2835,7 +2835,7 @@ Ubah cara Anda merencanakan menu, berbelanja, dan memasak di rumah dengan Shop &
 
 🌐 Pelajari lebih lanjut: https://ahyumlabs-design.github.io/shopyum/
 🔒 Kebijakan Privasi: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Dukungan: support@ahyumlabs.com
+📧 Dukungan: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2864,7 +2864,7 @@ Ubah cara Anda merencanakan menu, berbelanja, dan memasak di rumah dengan Shop &
 
 🌐 Pelajari lebih lanjut: https://ahyumlabs-design.github.io/shopyum/
 🔒 Kebijakan Privasi: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Dukungan: support@ahyumlabs.com
+📧 Dukungan: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2893,7 +2893,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2922,7 +2922,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -2987,7 +2987,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -3018,7 +3018,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3047,7 +3047,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 Læs mere: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatlivspolitik: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3078,7 +3078,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 اطلاعات بیشتر: https://ahyumlabs-design.github.io/shopyum/
 🔒 سیاست حریم خصوصی: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 پشتیبانی: support@ahyumlabs.com
+📧 پشتیبانی: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3109,7 +3109,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 اطلاعات بیشتر: https://ahyumlabs-design.github.io/shopyum/
 🔒 سیاست حریم خصوصی: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 پشتیبانی: support@ahyumlabs.com
+📧 پشتیبانی: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3140,7 +3140,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 اطلاعات بیشتر: https://ahyumlabs-design.github.io/shopyum/
 🔒 سیاست حریم خصوصی: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 پشتیبانی: support@ahyumlabs.com
+📧 پشتیبانی: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3171,7 +3171,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 اطلاعات بیشتر: https://ahyumlabs-design.github.io/shopyum/
 🔒 سیاست حریم خصوصی: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 پشتیبانی: support@ahyumlabs.com
+📧 پشتیبانی: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3200,7 +3200,7 @@ Zmień sposób, w jaki planujesz posiłki, robisz zakupy i gotujesz w domu z Sho
 
 🌐 Więcej: https://ahyumlabs-design.github.io/shopyum/
 🔒 Polityka prywatności: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Pomoc: support@ahyumlabs.com
+📧 Pomoc: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3275,7 +3275,7 @@ Seja para organizar o menu semanal, acompanhar o estoque da despensa, controlar 
 
 🌐 Saiba mais: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidade: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Suporte: support@ahyumlabs.com
+📧 Suporte: ahyum.labs@gmail.com
 
 Baixe o Shop & Yum hoje e revolucione sua experiência na cozinha e no mercado!
 ```
@@ -3352,7 +3352,7 @@ Seja para organizar o menu semanal, acompanhar o estoque da despensa, controlar 
 
 🌐 Saiba mais: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidade: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Suporte: support@ahyumlabs.com
+📧 Suporte: ahyum.labs@gmail.com
 
 Baixe o Shop & Yum hoje e revolucione sua experiência na cozinha e no mercado!
 ```
@@ -3383,7 +3383,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3412,7 +3412,7 @@ Transformă modul în care îți planifici mesele, faci cumpărăturile și găt
 
 🌐 Detalii: https://ahyumlabs-design.github.io/shopyum/
 🔒 Confidențialitate: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Suport: support@ahyumlabs.com
+📧 Suport: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3487,7 +3487,7 @@ Que vous souhaitiez organiser vos menus de la semaine, gérer le stock de votre 
 
 🌐 En savoir plus : https://ahyumlabs-design.github.io/shopyum/
 🔒 Politique de confidentialité : https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support : support@ahyumlabs.com
+📧 Support : ahyum.labs@gmail.com
 
 Téléchargez Shop & Yum dès aujourd'hui et révolutionnez votre cuisine au quotidien !
 ```
@@ -3554,7 +3554,7 @@ Téléchargez Shop & Yum dès aujourd'hui et révolutionnez votre cuisine au quo
 
 🌐 Подробнее: https://ahyumlabs-design.github.io/shopyum/
 🔒 Политика конфиденциальности: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддержка: support@ahyumlabs.com
+📧 Поддержка: ahyum.labs@gmail.com
 
 Скачайте Shop & Yum сегодня и готовьте с удовольствием!
 ```
@@ -3585,7 +3585,7 @@ Téléchargez Shop & Yum dès aujourd'hui et révolutionnez votre cuisine au quo
 
 🌐 Още: https://ahyumlabs-design.github.io/shopyum/
 🔒 Поверителност: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Поддръжка: support@ahyumlabs.com
+📧 Поддръжка: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3614,7 +3614,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3643,7 +3643,7 @@ Změňte způsob, jakým plánujete jídla, nakupujete a varíte doma s Shop & Y
 
 🌐 Více: https://ahyumlabs-design.github.io/shopyum/
 🔒 Ochrana soukromí: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Podpora: support@ahyumlabs.com
+📧 Podpora: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3672,7 +3672,7 @@ Transformirajte način na koji planirate obroke, kupujete namirnice i kuhate kod
 
 🌐 Saznajte više: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatnost: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Podrška: support@ahyumlabs.com
+📧 Podrška: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3747,7 +3747,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -3824,7 +3824,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -3901,7 +3901,7 @@ Ya sea que desees organizar tu menú semanal, controlar el inventario de tu desp
 
 🌐 Más información: https://ahyumlabs-design.github.io/shopyum/
 🔒 Política de Privacidad: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Soporte: support@ahyumlabs.com
+📧 Soporte: ahyum.labs@gmail.com
 
 ¡Descarga Shop & Yum hoy y revoluciona tu forma de planificar, comprar y cocinar!
 ```
@@ -3932,7 +3932,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 Pata maelezo zaidi: https://ahyumlabs-design.github.io/shopyum/
 🔒 Sera ya Faragha: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Usaidizi: support@ahyumlabs.com
+📧 Usaidizi: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3961,7 +3961,7 @@ Forvandl måden du planlægger måltider, køber ind og laver mad på med Shop &
 
 🌐 Læs mere: https://ahyumlabs-design.github.io/shopyum/
 🔒 Privatlivspolitik: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Support: support@ahyumlabs.com
+📧 Support: ahyum.labs@gmail.com
 ```
 
 ---
@@ -3990,7 +3990,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4019,7 +4019,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 अधिक जानकारी: https://ahyumlabs-design.github.io/shopyum/
 🔒 गोपनीयता नीति: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 सहायता: support@ahyumlabs.com
+📧 सहायता: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4048,7 +4048,7 @@ Shop & Yum के साथ अपने भोजन की योजना, �
 
 🌐 ดูข้อมูลเพิ่มเติม: https://ahyumlabs-design.github.io/shopyum/
 🔒 นโยบายความเป็นส่วนตัว: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 ฝ่ายซัพพอร์ต: support@ahyumlabs.com
+📧 ฝ่ายซัพพอร์ต: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4077,7 +4077,7 @@ Shop & Yum ile yemek planlama, alışveriş ve evde yemek pişirme şeklinizi de
 
 🌐 Daha fazla bilgi: https://ahyumlabs-design.github.io/shopyum/
 🔒 Gizlilik Politikası: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Destek: support@ahyumlabs.com
+📧 Destek: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4106,7 +4106,7 @@ Shop & Yum ile yemek planlama, alışveriş ve evde yemek pişirme şeklinizi de
 
 🌐 Докладніше: https://ahyumlabs-design.github.io/shopyum/
 🔒 Політика конфіденційності: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Підтримка: support@ahyumlabs.com
+📧 Підтримка: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4135,7 +4135,7 @@ Shop & Yum کے ساتھ اپنے کھانوں کی منصوبہ بندی، خر
 
 🌐 مزید معلومات: https://ahyumlabs-design.github.io/shopyum/
 🔒 پرائیویسی پالیسی: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 مدد: support@ahyumlabs.com
+📧 مدد: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4164,7 +4164,7 @@ Biến đổi cách bạn lập kế hoạch bữa ăn, đi chợ và nấu nư�
 
 🌐 Tìm hiểu thêm: https://ahyumlabs-design.github.io/shopyum/
 🔒 Chính sách bảo mật: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Hỗ trợ: support@ahyumlabs.com
+📧 Hỗ trợ: ahyum.labs@gmail.com
 ```
 
 ---
@@ -4193,7 +4193,7 @@ Badilisha jinsi unavyopanga milo, kununua bidhaa, na kupika nyumbani ukitumia Sh
 
 🌐 Pata maelezo zaidi: https://ahyumlabs-design.github.io/shopyum/
 🔒 Sera ya Faragha: https://ahyumlabs-design.github.io/shopyum/privacy.html
-📧 Usaidizi: support@ahyumlabs.com
+📧 Usaidizi: ahyum.labs@gmail.com
 ```
 
 ---
